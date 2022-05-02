@@ -1,0 +1,4 @@
+# ignore data file
+*.dat
+# ignore intermediate calculation result
+Calculations/
